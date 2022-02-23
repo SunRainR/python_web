@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functional_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/functional_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lists/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/lists/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../python_web-main/lists/templates/home.html" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -56,5 +58,19 @@
       <updated>1645521289607</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="125" width="1651" height="701" key="DiffContextDialog" timestamp="1645582566630">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="167" y="125" width="1651" height="701" key="DiffContextDialog/67.27.1851.899@67.27.1851.899" timestamp="1645582566630" />
+    <state x="716" y="233" key="FileChooserDialogImpl" timestamp="1645585090179">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="716" y="233" key="FileChooserDialogImpl/67.27.1851.899@67.27.1851.899" timestamp="1645585090179" />
+    <state x="167" y="125" width="1651" height="701" key="ShowDiffWithBranchDialog" timestamp="1645582566630">
+      <screen x="67" y="27" width="1851" height="899" />
+    </state>
+    <state x="167" y="125" width="1651" height="701" key="ShowDiffWithBranchDialog/67.27.1851.899@67.27.1851.899" timestamp="1645582566630" />
   </component>
 </project>
